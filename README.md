@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Volodymyr.
+## Hi there, my name is Volodymyr  👋
 ### About Me
 I’m a front-end developer with 8+ years of professional experience.
 I'm building various web projects using JavaScript.
