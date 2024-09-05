@@ -1,9 +1,7 @@
-## Hi there 👋
-
-### My name is Volodymyr.
-#### I am a front-end developer.
-
+## Hi there 👋 My name is Volodymyr.
 ### About Me
+I’m a front-end developer with 8+ years of professional experience.
+I'm building various web projects using JavaScript.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazy-dreamer/)
 <!--
