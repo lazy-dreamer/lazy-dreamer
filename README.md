@@ -12,6 +12,7 @@ I'm building various web projects using JavaScript.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/)
 -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lazy-dreamer)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenns&hide_progress=false&layout=compact)
 -->
