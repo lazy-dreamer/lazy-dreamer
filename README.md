@@ -14,20 +14,12 @@ I'm building various web projects using JavaScript.
 -->
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazy-dreamer&layout=compact)
+
+
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazy-dreamer&size_weight=0.5&count_weight=0.5)
-
-
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenns&hide_progress=false&layout=compact)
 -->
-
-<!--
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lazy-dreamer)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-
-
 
 <!--
 **lazy-dreamer/lazy-dreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
