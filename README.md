@@ -14,7 +14,7 @@ I'm building various web projects using JavaScript.
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazy-dreamer)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazy-dreamer&size_weight=0.5&count_weight=0.5)
 
 
 
